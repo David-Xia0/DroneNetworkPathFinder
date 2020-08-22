@@ -1,0 +1,3 @@
+java -jar testbed.jar -port=10120 -delay=3 -action=senddvs -dv=s2,1 -dv=s3,1 -name=Operator1
+
+java -jar testbed.jar -port=10120 -delay=3 -action=senddvs -dv=Operator1,0 -dv=s3,4 -name=Relay2

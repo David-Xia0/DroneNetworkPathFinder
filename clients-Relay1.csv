@@ -1,0 +1,5 @@
+Search1,Search,127.0.0.1:10124,5
+Search2,Search,127.0.0.1:10125,5
+Operator1,Operator,127.0.0.1:10126,-1
+Relay2,Relay,127.0.0.1:10128,1
+Relay3,Relay,127.0.0.1:10129,-1
